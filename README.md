@@ -14,7 +14,7 @@ The repository is divided into two environments:
 ```text
 tls-cert-automation-windows/
 ├── 1-local-simulator/        # Local Pebble CA testing environment (Archived)
-└── 2-production-reference/   # Production automation reference (Active)
+└── 2-production-reference/   # Production automation reference
 ```
 
 ---
@@ -49,7 +49,7 @@ Although not intended for production, this directory remains a useful educationa
 
 ---
 
-# 🚀 2. Production Reference (Zero-Touch Provisioning)
+# 🚀 2. Production Reference (For Automated Provisioning)
 
 The **2-production-reference** directory demonstrates how automated TLS provisioning should be implemented in modern cloud environments such as:
 
