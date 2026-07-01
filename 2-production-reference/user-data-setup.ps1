@@ -1,6 +1,6 @@
 <#
 ==============================================================================
-PRODUCTION ACME PROVISIONING SCRIPT (WINDOWS / WIN-ACME / SECTIGO)
+PRODUCTION ACME PROVISIONING SCRIPT (WINDOWS / IIS / SECTIGO)
 
 Purpose:
 Automates end-to-end TLS certificate provisioning for IIS using the ACME protocol.
